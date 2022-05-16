@@ -1,0 +1,24 @@
+.btn-primary{
+    background-color: #ecb7bf;
+}
+.btn-primary:hover{
+    background-color:#e4a199 !important;
+}
+.btn-primary:focus{
+    background-color:#ce897b !important;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6)
+}
+
+.alert{
+    margin-bottom: 0 ;
+}
+.form-control{
+    border-color:#ecb7bf;
+}
+.form-control:hover{
+    border-color:#ecb7bf;
+}
+.form-control:focus {
+    border-color: #ecb7bf;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+  }
